@@ -2,5 +2,5 @@
 
 <div>
 
-  ![Snake animation](https://github.com/matheus-paulino)
+  ![Snake animation]https://github.com/matheus-paulino
 </div>
