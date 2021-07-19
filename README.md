@@ -6,7 +6,4 @@ Every day learning something about technology accompanied of beautiful coffee â˜
 
 ## Social Networks
 
-<div>
-  ![Snake animation](https://github.com/matheus-paulino/matheus-paulino/blob/output/github-contribution-grid-snake.svg)
-</div>
-
+![Snake animation](https://github.com/matheus-paulino/matheus-paulino/blob/output/github-contribution-grid-snake.svg)
