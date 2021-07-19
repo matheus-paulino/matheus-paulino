@@ -33,3 +33,4 @@ Every day learning something about technology accompanied of beautiful coffee â˜
 <div>
   ![Snake animation](https://github.com/matheus-paulino/matheus-paulino/blob/output/github-contribution-grid-snake.svg)
 </div>
+
