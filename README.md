@@ -6,8 +6,8 @@ Every day learning something about technology accompanied of beautiful coffee â˜
 
 #
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-paulino&hide=contribs,prs&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-paulino&layout=compact&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-paulino&hide=contribs,prs&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-paulino&layout=compact&theme=radical">
 </div>
 
 <div>
