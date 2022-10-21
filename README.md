@@ -31,7 +31,7 @@ Every day learning something about technology accompanied of beautiful coffee â˜
 ## ðŸ”· Social Networks
 
 <div style="display: inline-block;">
-  <a align="center" height="30" width="40" href="https://instagram.com/mdemaatheus" target="_blank">
+  <a align="center" height="30" width="40" href="https://instagram.com/oematheos" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:matheus@lunarcode.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
