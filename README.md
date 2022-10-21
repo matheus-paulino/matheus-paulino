@@ -24,10 +24,6 @@ Every day learning something about technology accompanied of beautiful coffee â˜
   <a href="https://vuejs.org/">
     <img align="center" height="30" style="padding: 12px;" alt="VueJS" title="#VueJS" src="./assets/vuejs.svg" />
   </a>
-
-   <a href="https://flutter.dev/">
-    <img align="center" height="30" style="padding: 12px;" alt="Flutter" title="#Flutter" src="./assets/flutter.svg" />
-  </a>
 </div>
 
 #
@@ -38,7 +34,7 @@ Every day learning something about technology accompanied of beautiful coffee â˜
   <a align="center" height="30" width="40" href="https://instagram.com/mdemaatheus" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:matheuspaulino.santos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "mailto:matheus@lunarcode.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
