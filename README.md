@@ -1,6 +1,6 @@
 # Matheus Paulino 🚀
 
-Web Developer and Mobile.
+Back-end Developer
 
 Every day learning something about technology accompanied of beautiful coffee ☕.
 
