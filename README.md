@@ -10,8 +10,6 @@ Every day learning something about technology accompanied of beautiful coffee �
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-paulino&layout=compact&theme=radical">
 </div>
 
-#
-
 ## 👨‍💻 Technologies
 <div>
   <a href="https://www.php.net/">
@@ -28,7 +26,7 @@ Every day learning something about technology accompanied of beautiful coffee �
 
 #
 
-## 🔷 Social Networks
+## 🌎 Social Networks
 
 <div style="display: inline-block;">
   <a align="center" height="30" width="40" href="https://instagram.com/oematheos" target="_blank">
